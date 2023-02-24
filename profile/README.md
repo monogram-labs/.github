@@ -1,8 +1,6 @@
 # Monogram Labs
 Monogram's experimental GitHub organization.
 
-## We build composable digital products.
-
 Monogram is a digital agency from Atlanta specializing in headless ecommerce,<br>
 web development, and web apps. We thrive at the intersection of great design,<br>
 innovative technologies, and providing exceptional service. We help you<br>
